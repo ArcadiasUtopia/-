@@ -1,3 +1,5 @@
-mkdir ~/Αρκαδία
-cd ~/Αρκαδία
-git init
+ArcadiasUtopia:Desktop ArcadiasUtopia$ cd ~/Desktop
+ArcadiasUtopia:Desktop ArcadiasUtopia$ mkdir Αρκαδία
+ArcadiasUtopia:Desktop ArcadiasUtopia$ cd Αρκαδία/mkdir ~/Αρκαδία
+ArcadiasUtopia:Αρκαδία ArcadiasUtopia$ git init
+Initialized empty Git repository in /Users/Covey/Desktop/GitHub/Αρκαδία/.git/
