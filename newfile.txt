@@ -1,0 +1,3 @@
+ArcadiasUtopia:Αρκαδία ArcadiasUtopia$ touch ArcadiasUtopia.txt
+ArcadiasUtopia:Αρκαδία ArcadiasUtopia$ ls
+ArcadiasUtopia.txt
